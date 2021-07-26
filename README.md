@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![smch0323's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=smch0323)
+<p align="center">
+  ![smch0323's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=smch0323)
+</p>
