@@ -1,4 +1,4 @@
-### Welcome to my Github ^^
+### Welcome to imaginol's Github
 <!--
 **imaginol/imaginol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
