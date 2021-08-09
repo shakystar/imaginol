@@ -2,7 +2,9 @@
 
 
 
+[![Tech Blog Badge](http://img.shields.io/badge/-C-black?style=flat-square)](https://zzsza.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-C%20++-black?style=flat-square)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-C%20#-black?style=flat-square)](https://zzsza.github.io/)
 
 
   <div align=center>
