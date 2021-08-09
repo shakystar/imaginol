@@ -2,9 +2,9 @@
 
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-C-black?style=flat-square)]
-[![Tech Blog Badge](http://img.shields.io/badge/-C%20++-black?style=flat-square)]
-[![Tech Blog Badge](http://img.shields.io/badge/-C%20##-black?style=flat-square)]
+[![Tech Blog Badge](http://img.shields.io/badge/-C-black?style=flat-square)]()
+[![Tech Blog Badge](http://img.shields.io/badge/-C%20++-black?style=flat-square)]()
+[![Tech Blog Badge](http://img.shields.io/badge/-C%20##-black?style=flat-square)]()
 
 
   <div align=center>
